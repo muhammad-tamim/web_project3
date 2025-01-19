@@ -117,3 +117,40 @@
     row-gap: 32px;
     text-align: center;
 }
+
+/* Web Dev Section */
+#web_dev_section{
+    background-color: rgba(13, 19, 33, 0.02);
+    height: 1393px;
+}
+.web_dev_container{
+    width: 946px;
+    height: 1233px;
+    margin: 0 auto;
+    padding-top: 80px;
+}
+.web_dev_header{
+    width: 852px;
+    height: 113px;
+    text-align: center;
+}
+.web_dev_heading{
+    margin-bottom: 24px;
+}
+.web_dev_card_items{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 336px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    margin-top: 32px;
+}
+.web_dev_card_item_text{
+    width: 477px;
+    height: 219px;
+    
+}
+.web_dev_card_item_text > p{
+    margin-top: 16px;
+    margin-bottom: 32px;    
+}
