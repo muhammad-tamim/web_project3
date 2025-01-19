@@ -101,3 +101,19 @@
     justify-content: space-between;
     margin: 38px 150px;
 }
+
+/* Banner Section */
+#banner_section{
+    height: 652px;
+    background: url(../assets/Hero-bg.png);
+    display: flex;
+    justify-content: center;
+}
+.banner_container{
+    width: 998px;
+    height: 581px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 32px;
+    text-align: center;
+}
