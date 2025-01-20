@@ -93,6 +93,7 @@
     color: #0d1321;
     font-size: 20;
     font: 600;
+    border-style: none;
 }
 .card_color_1{
     background-color: rgba(255, 76, 30, 0.05);
@@ -238,4 +239,31 @@
     column-gap: 24px;
     padding: 40px;
     margin-bottom: 24px;
+}
+
+/*Support Section */
+#support_section{
+    background: url(../assets/handshake.jpg) no-repeat center;
+    background-size: cover;
+    height: 313px;
+}
+.support_section_header{
+    text-align: center;
+    margin: 0 auto;
+    width: 730px;
+}
+.support_section_header > h2{
+    padding-top: 64px;
+    padding-bottom: 16px;
+}
+#support_section form{
+    width: 700px;
+    margin: 0 auto;
+}
+#support_section form input{
+    width: 548px;
+    height: 57px;
+    padding-left: 20px;
+    border-radius: 8px;
+    border-style: none;
 }
