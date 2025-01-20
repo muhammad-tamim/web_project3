@@ -267,3 +267,20 @@
     border-radius: 8px;
     border-style: none;
 }
+
+/* Footer Section */
+#footer_section{
+    background-color: rgba(13, 19, 33, 0.03);
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+.footer_section_text{
+    margin-top: 32px;
+}
+.footer_section_image{
+    margin-top: 32px;
+}
+.footer_section_image > img {
+    margin-right: 24px;
+}
