@@ -6,7 +6,7 @@ This is a simple web development project created using HTML and CSS, with a focu
 The website is not responsive. My display resolution is 1600 x 900 pixels, so I designed this webpage based on my screen. For the best viewing experience, please resize your browser window to match this resolution.
 
 ## Project Demo Video:
-<video controls src="assets/web_project_3.mp4" title="Project Demo Video"></video>
+https://github.com/user-attachments/assets/fa75423b-bc0a-48f3-813c-6f073b6c79ef
 
 ## Live Site Link:
 https://muhammad-tamim.github.io/web_project3/
